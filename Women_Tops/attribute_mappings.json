@@ -1,0 +1,72 @@
+{
+    "attr_1": {
+        "0": "black",
+        "1": "blue",
+        "2": "default",
+        "3": "green",
+        "4": "maroon",
+        "5": "multicolor",
+        "6": "navy blue",
+        "7": "peach",
+        "8": "pink",
+        "9": "red",
+        "10": "white",
+        "11": "yellow"
+    },
+    "attr_2": {
+        "0": "boxy",
+        "1": "default",
+        "2": "fitted",
+        "3": "regular"
+    },
+    "attr_3": {
+        "0": "crop",
+        "1": "regular"
+    },
+    "attr_4": {
+        "0": "default",
+        "1": "high",
+        "2": "round neck",
+        "3": "square neck",
+        "4": "stylised",
+        "5": "sweetheart neck",
+        "6": "v-neck"
+    },
+    "attr_5": {
+        "0": "casual",
+        "1": "party"
+    },
+    "attr_6": {
+        "0": "default",
+        "1": "printed",
+        "2": "solid"
+    },
+    "attr_7": {
+        "0": "default",
+        "1": "floral",
+        "2": "graphic",
+        "3": "quirky",
+        "4": "solid",
+        "5": "typography"
+    },
+    "attr_8": {
+        "0": "long sleeves",
+        "1": "short sleeves",
+        "2": "sleeveless",
+        "3": "three-quarter sleeves"
+    },
+    "attr_9": {
+        "0": "default",
+        "1": "puff sleeves",
+        "2": "regular sleeves",
+        "3": "sleeveless"
+    },
+    "attr_10": {
+        "0": "applique",
+        "1": "default",
+        "2": "knitted",
+        "3": "ruffles",
+        "4": "tie-ups",
+        "5": "waist tie-ups"
+    }
+}

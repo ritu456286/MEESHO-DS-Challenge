@@ -1,0 +1,50 @@
+{
+    "attr_1": {
+        "0": "black",
+        "1": "blue",
+        "2": "green",
+        "3": "grey",
+        "4": "maroon",
+        "5": "multicolor",
+        "6": "navy blue",
+        "7": "orange",
+        "8": "pink",
+        "9": "purple",
+        "10": "red",
+        "11": "white",
+        "12": "yellow"
+    },
+    "attr_2": {
+        "0": "a-line",
+        "1": "straight"
+    },
+    "attr_3": {
+        "0": "calf length",
+        "1": "knee length"
+    },
+    "attr_4": {
+        "0": "daily",
+        "1": "party"
+    },
+    "attr_5": {
+        "0": "default",
+        "1": "net"
+    },
+    "attr_6": {
+        "0": "default",
+        "1": "solid"
+    },
+    "attr_7": {
+        "0": "default",
+        "1": "solid"
+    },
+    "attr_8": {
+        "0": "short sleeves",
+        "1": "sleeveless",
+        "2": "three-quarter sleeves"
+    },
+    "attr_9": {
+        "0": "regular",
+        "1": "sleeveless"
+    }
+}

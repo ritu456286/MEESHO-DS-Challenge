@@ -1,0 +1,47 @@
+{
+    "attr_1": {
+        "0": "black",
+        "1": "default",
+        "2": "maroon",
+        "3": "multicolor",
+        "4": "pink",
+        "5": "white",
+        "6": "yellow"
+    },
+    "attr_2": {
+        "0": "boxy",
+        "1": "loose",
+        "2": "regular"
+    },
+    "attr_3": {
+        "0": "crop",
+        "1": "long",
+        "2": "regular"
+    },
+    "attr_4": {
+        "0": "default",
+        "1": "printed",
+        "2": "solid"
+    },
+    "attr_5": {
+        "0": "default",
+        "1": "funky print",
+        "2": "graphic",
+        "3": "quirky",
+        "4": "solid",
+        "5": "typography"
+    },
+    "attr_6": {
+        "0": "default",
+        "1": "long sleeves",
+        "2": "short sleeves"
+    },
+    "attr_7": {
+        "0": "cuffed sleeves",
+        "1": "regular sleeves"
+    },
+    "attr_8": {
+        "0": "applique",
+        "1": "default"
+    }
+}

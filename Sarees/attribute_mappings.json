@@ -1,0 +1,70 @@
+{
+    "attr_1": {
+        "0": "default",
+        "1": "same as border",
+        "2": "same as saree",
+        "3": "solid"
+    },
+    "attr_2": {
+        "0": "default",
+        "1": "no border",
+        "2": "solid",
+        "3": "temple border",
+        "4": "woven design",
+        "5": "zari"
+    },
+    "attr_3": {
+        "0": "big border",
+        "1": "no border",
+        "2": "small border"
+    },
+    "attr_4": {
+        "0": "cream",
+        "1": "default",
+        "2": "green",
+        "3": "multicolor",
+        "4": "navy blue",
+        "5": "pink",
+        "6": "white",
+        "7": "yellow"
+    },
+    "attr_5": {
+        "0": "daily",
+        "1": "party",
+        "2": "traditional",
+        "3": "wedding"
+    },
+    "attr_6": {
+        "0": "default",
+        "1": "jacquard",
+        "2": "tassels and latkans"
+    },
+    "attr_7": {
+        "0": "default",
+        "1": "same as saree",
+        "2": "woven design",
+        "3": "zari woven"
+    },
+    "attr_8": {
+        "0": "default",
+        "1": "printed",
+        "2": "solid",
+        "3": "woven design",
+        "4": "zari woven"
+    },
+    "attr_9": {
+        "0": "applique",
+        "1": "botanical",
+        "2": "checked",
+        "3": "default",
+        "4": "elephant",
+        "5": "ethnic motif",
+        "6": "floral",
+        "7": "peacock",
+        "8": "solid"
+    },
+    "attr_10": {
+        "0": "no",
+        "1": "yes"
+    }
+}

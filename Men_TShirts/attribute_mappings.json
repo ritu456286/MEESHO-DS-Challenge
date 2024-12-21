@@ -1,0 +1,25 @@
+{
+    "attr_1": {
+        "0": "black",
+        "1": "default",
+        "2": "multicolor",
+        "3": "white"
+    },
+    "attr_2": {
+        "0": "polo",
+        "1": "round"
+    },
+    "attr_3": {
+        "0": "printed",
+        "1": "solid"
+    },
+    "attr_4": {
+        "0": "default",
+        "1": "solid",
+        "2": "typography"
+    },
+    "attr_5": {
+        "0": "long sleeves",
+        "1": "short sleeves"
+    }
+}
